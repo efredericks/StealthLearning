@@ -1,0 +1,1088 @@
+{
+	"map":
+	{
+		"uid"     : 1000,
+		"xSize"   : 12,
+		"ySize"   : 12,
+		"numTiles": 144,
+		"tiles"   : 
+		[
+			{
+				"uid"       : 1001,
+				"xPos"      : 0,
+				"yPos"      : 0,
+				"ground"    : 0,
+				"scenery"   : 96
+			},
+			{
+				"uid"       : 1002,
+				"xPos"      : 1,
+				"yPos"      : 0,
+				"ground"    : 0,
+				"scenery"   : 97
+			},
+			{
+				"uid"       : 1003,
+				"xPos"      : 2,
+				"yPos"      : 0,
+				"ground"    : 0,
+				"scenery"   : 83
+			},
+			{
+				"uid"       : 1004,
+				"xPos"      : 3,
+				"yPos"      : 0,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1005,
+				"xPos"      : 4,
+				"yPos"      : 0,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1006,
+				"xPos"      : 5,
+				"yPos"      : 0,
+				"ground"	: 0,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1007,
+				"xPos"      : 6,
+				"yPos"      : 0,
+				"ground"    : 0,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1008,
+				"xPos"      : 7,
+				"yPos"      : 0,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1009,
+				"xPos"      : 8,
+				"yPos"      : 0,
+				"ground"    : 4,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1010,
+				"xPos"      : 9,
+				"yPos"      : 0,
+				"ground"    : 4,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1011,
+				"xPos"      : 10,
+				"yPos"      : 0,
+				"ground"    : 4,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1012,
+				"xPos"      : 11,
+				"yPos"      : 0,
+				"ground"    : 4,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1013,
+				"xPos"      : 0,
+				"yPos"      : 1,
+				"ground"    : 0,
+				"scenery"   : 112
+			},
+			{
+				"uid"       : 1014,
+				"xPos"      : 1,
+				"yPos"      : 1,
+				"ground"    : 0,
+				"scenery"   : 113
+			},
+			{
+				"uid"       : 1015,
+				"xPos"      : 2,
+				"yPos"      : 1,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1016,
+				"xPos"      : 3,
+				"yPos"      : 1,
+				"ground"    : 0,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1017,
+				"xPos"      : 4,
+				"yPos"      : 1,
+				"ground"    : 1,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1018,
+				"xPos"      : 5,
+				"yPos"      : 1,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1019,
+				"xPos"      : 6,
+				"yPos"      : 1,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1020,
+				"xPos"      : 7,
+				"yPos"      : 1,
+				"ground"    : 116,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1021,
+				"xPos"      : 8,
+				"yPos"      : 1,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1022,
+				"xPos"      : 9,
+				"yPos"      : 1,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1023,
+				"xPos"      : 10,
+				"yPos"      : 1,
+				"ground"    : 118,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1024,
+				"xPos"      : 11,
+				"yPos"      : 1,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1025,
+				"xPos"      : 0,
+				"yPos"      : 2,
+				"ground"    : 0,
+				"scenery"   : 96
+			},
+			{
+				"uid"       : 1026,
+				"xPos"      : 1,
+				"yPos"      : 2,
+				"ground"    : 3,
+				"scenery"   : 97
+			},
+			{
+				"uid"       : 1027,
+				"xPos"      : 2,
+				"yPos"      : 2,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1028,
+				"xPos"      : 3,
+				"yPos"      : 2,
+				"ground"    : 3,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1029,
+				"xPos"      : 4,
+				"yPos"      : 2,
+				"ground"    : 4,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1030,
+				"xPos"      : 5,
+				"yPos"      : 2,
+				"ground"    : 4,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1031,
+				"xPos"      : 6,
+				"yPos"      : 2,
+				"ground"    : 0,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1032,
+				"xPos"      : 7,
+				"yPos"      : 2,
+				"ground"    : 132,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1033,
+				"xPos"      : 8,
+				"yPos"      : 2,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1034,
+				"xPos"      : 9,
+				"yPos"      : 2,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1035,
+				"xPos"      : 10,
+				"yPos"      : 2,
+				"ground"    : 134,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1036,
+				"xPos"      : 11,
+				"yPos"      : 2,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1037,
+				"xPos"      : 0,
+				"yPos"      : 3,
+				"ground"    : 0,
+				"scenery"   : 112
+			},
+			{
+				"uid"       : 1038,
+				"xPos"      : 1,
+				"yPos"      : 3,
+				"ground"    : 3,
+				"scenery"   : 113
+			},
+			{
+				"uid"       : 1039,
+				"xPos"      : 2,
+				"yPos"      : 3,
+				"ground"    : 116,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1040,
+				"xPos"      : 3,
+				"yPos"      : 3,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1041,
+				"xPos"      : 4,
+				"yPos"      : 3,
+				"ground"    : 118,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1042,
+				"xPos"      : 5,
+				"yPos"      : 3,
+				"ground"    : 2,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1043,
+				"xPos"      : 6,
+				"yPos"      : 3,
+				"ground"    : 3,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1044,
+				"xPos"      : 7,
+				"yPos"      : 3,
+				"ground"    : 148,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1045,
+				"xPos"      : 8,
+				"yPos"      : 3,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1046,
+				"xPos"      : 9,
+				"yPos"      : 3,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1047,
+				"xPos"      : 10,
+				"yPos"      : 3,
+				"ground"    : 150,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1048,
+				"xPos"      : 11,
+				"yPos"      : 3,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1049,
+				"xPos"      : 0,
+				"yPos"      : 4,
+				"ground"    : 0,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1050,
+				"xPos"      : 1,
+				"yPos"      : 4,
+				"ground"    : 3,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1051,
+				"xPos"      : 2,
+				"yPos"      : 4,
+				"ground"    : 132,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1052,
+				"xPos"      : 3,
+				"yPos"      : 4,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1053,
+				"xPos"      : 4,
+				"yPos"      : 4,
+				"ground"    : 134,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1054,
+				"xPos"      : 5,
+				"yPos"      : 4,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1055,
+				"xPos"      : 6,
+				"yPos"      : 4,
+				"ground"    : 3,
+				"scenery"   : 82
+			},
+			{
+				"uid"       : 1056,
+				"xPos"      : 7,
+				"yPos"      : 4,
+				"ground"    : 3,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1057,
+				"xPos"      : 8,
+				"yPos"      : 4,
+				"ground"    : 4,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1058,
+				"xPos"      : 9,
+				"yPos"      : 4,
+				"ground"    : 4,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1059,
+				"xPos"      : 10,
+				"yPos"      : 4,
+				"ground"    : 1,
+				"scenery"   : 26
+			},
+			{
+				"uid"       : 1060,
+				"xPos"      : 11,
+				"yPos"      : 4,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1061,
+				"xPos"      : 0,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : 14
+			},
+			{
+				"uid"       : 1062,
+				"xPos"      : 1,
+				"yPos"      : 5,
+				"ground"    : 3,
+				"scenery"   : 14
+			},
+			{
+				"uid"       : 1063,
+				"xPos"      : 2,
+				"yPos"      : 5,
+				"ground"    : 148,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1064,
+				"xPos"      : 3,
+				"yPos"      : 5,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1065,
+				"xPos"      : 4,
+				"yPos"      : 5,
+				"ground"    : 150,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1066,
+				"xPos"      : 5,
+				"yPos"      : 5,
+				"ground"    : 2,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1067,
+				"xPos"      : 6,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1068,
+				"xPos"      : 7,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1069,
+				"xPos"      : 8,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1070,
+				"xPos"      : 9,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1071,
+				"xPos"      : 10,
+				"yPos"      : 5,
+				"ground"    : 1,
+				"scenery"   : 42
+			},
+			{
+				"uid"       : 1072,
+				"xPos"      : 11,
+				"yPos"      : 5,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1073,
+				"xPos"      : 0,
+				"yPos"      : 6,
+				"ground"    : 0,
+				"scenery"   : 30
+			},
+			{
+				"uid"       : 1074,
+				"xPos"      : 1,
+				"yPos"      : 6,
+				"ground"    : 3,
+				"scenery"   : 30
+			},
+			{
+				"uid"       : 1075,
+				"xPos"      : 2,
+				"yPos"      : 6,
+				"ground"    : 2,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1076,
+				"xPos"      : 3,
+				"yPos"      : 6,
+				"ground"    : 3,
+				"scenery"   : 58
+			},
+			{
+				"uid"       : 1077,
+				"xPos"      : 4,
+				"yPos"      : 6,
+				"ground"    : 4,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1078,
+				"xPos"      : 5,
+				"yPos"      : 6,
+				"ground"    : 3,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1079,
+				"xPos"      : 6,
+				"yPos"      : 6,
+				"ground"    : 2,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1080,
+				"xPos"      : 7,
+				"yPos"      : 6,
+				"ground"    : 116,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1081,
+				"xPos"      : 8,
+				"yPos"      : 6,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1082,
+				"xPos"      : 9,
+				"yPos"      : 6,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1083,
+				"xPos"      : 10,
+				"yPos"      : 6,
+				"ground"    : 118,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1084,
+				"xPos"      : 11,
+				"yPos"      : 6,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1085,
+				"xPos"      : 0,
+				"yPos"      : 7,
+				"ground"    : 0,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1086,
+				"xPos"      : 1,
+				"yPos"      : 7,
+				"ground"    : 116,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1087,
+				"xPos"      : 2,
+				"yPos"      : 7,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1088,
+				"xPos"      : 3,
+				"yPos"      : 7,
+				"ground"    : 117,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1089,
+				"xPos"      : 4,
+				"yPos"      : 7,
+				"ground"    : 118,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1090,
+				"xPos"      : 5,
+				"yPos"      : 7,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1091,
+				"xPos"      : 6,
+				"yPos"      : 7,
+				"ground"    : 0,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1092,
+				"xPos"      : 7,
+				"yPos"      : 7,
+				"ground"    : 132,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1093,
+				"xPos"      : 8,
+				"yPos"      : 7,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1094,
+				"xPos"      : 9,
+				"yPos"      : 7,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1095,
+				"xPos"      : 10,
+				"yPos"      : 7,
+				"ground"    : 134,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1096,
+				"xPos"      : 11,
+				"yPos"      : 7,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1097,
+				"xPos"      : 0,
+				"yPos"      : 8,
+				"ground"    : 0,
+				"scenery"   : 26
+			},
+			{
+				"uid"       : 1098,
+				"xPos"      : 1,
+				"yPos"      : 8,
+				"ground"    : 132,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1099,
+				"xPos"      : 2,
+				"yPos"      : 8,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1100,
+				"xPos"      : 3,
+				"yPos"      : 8,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1101,
+				"xPos"      : 4,
+				"yPos"      : 8,
+				"ground"    : 134,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1102,
+				"xPos"      : 5,
+				"yPos"      : 8,
+				"ground"    : 0,
+				"scenery"   : 27
+			},
+			{
+				"uid"       : 1103,
+				"xPos"      : 6,
+				"yPos"      : 8,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1104,
+				"xPos"      : 7,
+				"yPos"      : 8,
+				"ground"    : 132,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1105,
+				"xPos"      : 8,
+				"yPos"      : 8,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1106,
+				"xPos"      : 9,
+				"yPos"      : 8,
+				"ground"    : 133,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1107,
+				"xPos"      : 10,
+				"yPos"      : 8,
+				"ground"    : 134,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1108,
+				"xPos"      : 11,
+				"yPos"      : 8,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1109,
+				"xPos"      : 0,
+				"yPos"      : 9,
+				"ground"    : 0,
+				"scenery"   : 42
+			},
+			{
+				"uid"       : 1110,
+				"xPos"      : 1,
+				"yPos"      : 9,
+				"ground"    : 148,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1111,
+				"xPos"      : 2,
+				"yPos"      : 9,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1112,
+				"xPos"      : 3,
+				"yPos"      : 9,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1113,
+				"xPos"      : 4,
+				"yPos"      : 9,
+				"ground"    : 150,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1114,
+				"xPos"      : 5,
+				"yPos"      : 9,
+				"ground"    : 1,
+				"scenery"   : 26
+			},
+			{
+				"uid"       : 1115,
+				"xPos"      : 6,
+				"yPos"      : 9,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1116,
+				"xPos"      : 7,
+				"yPos"      : 9,
+				"ground"    : 148,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1117,
+				"xPos"      : 8,
+				"yPos"      : 9,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1118,
+				"xPos"      : 9,
+				"yPos"      : 9,
+				"ground"    : 149,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1119,
+				"xPos"      : 10,
+				"yPos"      : 9,
+				"ground"    : 150,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1120,
+				"xPos"      : 11,
+				"yPos"      : 9,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1121,
+				"xPos"      : 0,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 96
+			},
+			{
+				"uid"       : 1122,
+				"xPos"      : 1,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 97
+			},
+			{
+				"uid"       : 1123,
+				"xPos"      : 2,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 96
+			},
+			{
+				"uid"       : 1124,
+				"xPos"      : 3,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 97
+			},
+			{
+				"uid"       : 1125,
+				"xPos"      : 4,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 60
+			},
+			{
+				"uid"       : 1126,
+				"xPos"      : 5,
+				"yPos"      : 10,
+				"ground"    : 1,
+				"scenery"   : 42
+			},
+			{
+				"uid"       : 1127,
+				"xPos"      : 6,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1128,
+				"xPos"      : 7,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1129,
+				"xPos"      : 8,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1130,
+				"xPos"      : 9,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1131,
+				"xPos"      : 10,
+				"yPos"      : 10,
+				"ground"    : 1,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1132,
+				"xPos"      : 11,
+				"yPos"      : 10,
+				"ground"    : 0,
+				"scenery"   : -1
+			},
+			{
+				"uid"       : 1133,
+				"xPos"      : 0,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 112
+			},
+			{
+				"uid"       : 1134,
+				"xPos"      : 1,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 113
+			},
+			{
+				"uid"       : 1135,
+				"xPos"      : 2,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 112
+			},
+			{
+				"uid"       : 1136,
+				"xPos"      : 3,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 113
+			},
+			{
+				"uid"       : 1137,
+				"xPos"      : 4,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 80
+			},
+			{
+				"uid"       : 1138,
+				"xPos"      : 5,
+				"yPos"      : 11,
+				"ground"    : 1,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1139,
+				"xPos"      : 6,
+				"yPos"      : 11,
+				"ground"    : 1,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1140,
+				"xPos"      : 7,
+				"yPos"      : 11,
+				"ground"    : 1,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1141,
+				"xPos"      : 8,
+				"yPos"      : 11,
+				"ground"    : 1,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1142,
+				"xPos"      : 9,
+				"yPos"      : 11,
+				"ground"    : 1,
+				"scenery"   : 28
+			},
+			{
+				"uid"       : 1143,
+				"xPos"      : 10,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 57
+			},
+			{
+				"uid"       : 1144,
+				"xPos"      : 11,
+				"yPos"      : 11,
+				"ground"    : 0,
+				"scenery"   : 58
+			}
+		],
+		"buildings":
+		[
+			{
+				"objType"    : "startTerminus", 
+				"uid"        : 2000,
+				"xPos"       : 2,
+				"yPos"       : 1,
+				"name"       : "Heresville",
+				"endX"       : null,
+				"endY"       : null,
+				"startValue" : 42
+			},
+			{
+				"objType"   : "station",
+				"uid"       : 2001,
+				"xPos"      : 9,
+				"yPos"      : 0,
+				"name"      : "Gotham",
+				"operation" : null
+			},
+			{
+				"objType"   : "station",
+				"uid"       : 2002,
+				"xPos"      : 5,
+				"yPos"      : 6,
+				"name"      : "Whosville",
+				"operation" : null
+			},
+			{
+				"objType"   : "station",
+				"uid"       : 2003,
+				"xPos"      : 11,
+				"yPos"      : 4,
+				"name"      : "Brilliant",
+				"operation" : null
+			},
+			{
+				"objType"  : "endTerminus",
+				"uid"      : 2001,
+				"xPos"     : 10,
+				"yPos"     : 10,
+				"name"     : "Anytown",
+				"sourceX"  : null,
+				"sourceY"  : null,
+				"endValue" : 42
+			}
+			
+		],
+		"track":
+		[
+		],
+		"trains":
+		[
+			{
+				"objType": "trainEngine",
+				"uid"    : 4000,
+				"xPos"   : 1,
+				"yPos"   : 1
+			},
+			{
+				"objType"  : "trainCar",
+				"uid"      : 4001,
+				"xPos"     : 1,
+				"yPos"     : 1,
+				"var"      : "x",
+				"dataValue": 42
+			}
+		]
+	}
+}

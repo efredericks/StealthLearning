@@ -1,0 +1,87 @@
+﻿Educational Game Data Model
+Filename: game_datamodel.txt
+Author: Brianna Kearney
+Date: 08/13/2017
+Description: This file contains the data model detailing the properties of the various game objects. This is intended to be
+a guideline for creating level data in JSON format. The map is the top-level object containing all of the other objects in a
+given level, arranged into layers of like objects. The map contains a given number of tiles, which contain the ground and 
+scenery layers. The next layer is the buildings layer, containing startTerminus, endTerminus, station, and signalBox objects. 
+Above the buildings layer is the track layer, which contains track and branchTrack objects. The topmost layer of the map 
+contains the trains with both trainEngine and trainCar objects.
+
+map
+uid: unsigned int
+xSize: int
+ySize: int
+numTiles: int
+tiles: array of object(tiles)
+buildings: array of object(station/startTerminus/endTerminus/signalBox)
+track: array of object(track/branchTrack)
+trains: array of object(trainEngine/trainCar)
+
+tile
+uid: unsigned int
+xPos: int
+yPos: int
+ground: int
+scenery: int
+
+station
+uid: unsigned int
+xPos: int
+yPos: int
+name: string
+operation: function call
+
+startTerminus
+uid: unsigned int
+xPos: int
+yPos: int
+name: string
+endX: int
+endY: int
+startValue: int
+
+endTerminus
+uid: unsigned int
+xPos: int
+yPos: int
+name: string
+sourceX: int
+sourceY: int
+endValue: int
+
+signalBox
+uid: unsigned int
+xPos: int
+yPos: int
+track: pointer to object(branchTrack)
+dataIn: int, float, or string
+boolTest: function call
+
+track
+uid: unsigned int
+sourceX: int
+sourceY: int
+endX: int
+endY: int
+     
+branchTrack
+uid: unsigned int
+sourceX: int
+sourceY: int
+endTrueX: int
+endTrueY: int
+endFalseX: int
+endFalseY: int
+
+trainEngine
+uid: unsigned int
+xPos: int
+yPos: int
+
+trainCar
+uid: unsigned int
+xPos: int
+yPos: int
+dataValue: int
